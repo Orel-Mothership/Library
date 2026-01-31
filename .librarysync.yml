@@ -1,0 +1,8 @@
+# LibrarySync Policy — Managed Node Configuration
+repo_name: Library
+owner: auto-detected
+compliance_level: standard
+last_audit: 2026-01-31
+apply_mode_allowed: true
+master_repo: wan-shi-tongs-library
+master_repo_url: https://github.com/orel/wan-shi-tongs-library
